@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cup\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color\ height\ position
+comment1.target=Cup(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+numComments=3
