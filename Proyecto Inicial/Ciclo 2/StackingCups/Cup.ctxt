@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cup\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color\ height
+comment1.target=Cup(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int\ getPosition()
+comment4.params=
+comment4.target=void\ makeVisible()
+comment5.params=
+comment5.target=void\ makeInvisible()
+comment6.params=
+comment6.target=boolean\ isClosed()
+comment7.params=newPosition
+comment7.target=void\ changePosition(int)
+comment8.params=tapa
+comment8.target=void\ taparTaza(Lid)
+numComments=9
